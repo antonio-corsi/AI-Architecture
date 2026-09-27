@@ -1,0 +1,88 @@
+complaint_id,anomaly
+CMP-000357,bivariate outlier: months of tenure with 7-8 products
+CMP-000649,bivariate outlier: months of tenure with 7-8 products
+CMP-001978,bivariate outlier: months of tenure with 7-8 products
+CMP-002765,bivariate outlier: months of tenure with 7-8 products
+CMP-000632,bivariate outlier: tenure_years > customer_age - 18
+CMP-000657,bivariate outlier: tenure_years > customer_age - 18
+CMP-001954,bivariate outlier: tenure_years > customer_age - 18
+CMP-002006,bivariate outlier: tenure_years > customer_age - 18
+CMP-002645,bivariate outlier: tenure_years > customer_age - 18
+CMP-002674,bivariate outlier: tenure_years > customer_age - 18
+CMP-000647,duplicated row
+CMP-000771,duplicated row
+CMP-000829,duplicated row
+CMP-002818,duplicated row
+CMP-002891,duplicated row
+CMP-002985,duplicated row
+CMP-000059,inconsistent channel label
+CMP-000486,inconsistent channel label
+CMP-000858,inconsistent channel label
+CMP-000876,inconsistent channel label
+CMP-001158,inconsistent channel label
+CMP-001315,inconsistent channel label
+CMP-001930,inconsistent channel label
+CMP-001967,inconsistent channel label
+CMP-002005,inconsistent channel label
+CMP-002492,inconsistent channel label
+CMP-002562,inconsistent channel label
+CMP-002627,inconsistent channel label
+CMP-000004,missing value written as text: customer_segment = 'unknown'
+CMP-000030,missing value written as text: customer_segment = 'unknown'
+CMP-000125,missing value written as text: customer_segment = 'unknown'
+CMP-000177,missing value written as text: customer_segment = 'unknown'
+CMP-000275,missing value written as text: customer_segment = 'unknown'
+CMP-000303,missing value written as text: customer_segment = 'unknown'
+CMP-000340,missing value written as text: customer_segment = 'unknown'
+CMP-000487,missing value written as text: customer_segment = 'unknown'
+CMP-000540,missing value written as text: customer_segment = 'unknown'
+CMP-000630,missing value written as text: customer_segment = 'unknown'
+CMP-000753,missing value written as text: customer_segment = 'unknown'
+CMP-000837,missing value written as text: customer_segment = 'unknown'
+CMP-000843,missing value written as text: customer_segment = 'unknown'
+CMP-000900,missing value written as text: customer_segment = 'unknown'
+CMP-000933,missing value written as text: customer_segment = 'unknown'
+CMP-000953,missing value written as text: customer_segment = 'unknown'
+CMP-001107,missing value written as text: customer_segment = 'unknown'
+CMP-001165,missing value written as text: customer_segment = 'unknown'
+CMP-001172,missing value written as text: customer_segment = 'unknown'
+CMP-001230,missing value written as text: customer_segment = 'unknown'
+CMP-001278,missing value written as text: customer_segment = 'unknown'
+CMP-001304,missing value written as text: customer_segment = 'unknown'
+CMP-001343,missing value written as text: customer_segment = 'unknown'
+CMP-001390,missing value written as text: customer_segment = 'unknown'
+CMP-001471,missing value written as text: customer_segment = 'unknown'
+CMP-001553,missing value written as text: customer_segment = 'unknown'
+CMP-001614,missing value written as text: customer_segment = 'unknown'
+CMP-001680,missing value written as text: customer_segment = 'unknown'
+CMP-001681,missing value written as text: customer_segment = 'unknown'
+CMP-001726,missing value written as text: customer_segment = 'unknown'
+CMP-001831,missing value written as text: customer_segment = 'unknown'
+CMP-001861,missing value written as text: customer_segment = 'unknown'
+CMP-001989,missing value written as text: customer_segment = 'unknown'
+CMP-002355,missing value written as text: customer_segment = 'unknown'
+CMP-002364,missing value written as text: customer_segment = 'unknown'
+CMP-002546,missing value written as text: customer_segment = 'unknown'
+CMP-002747,missing value written as text: customer_segment = 'unknown'
+CMP-002783,missing value written as text: customer_segment = 'unknown'
+CMP-002837,missing value written as text: customer_segment = 'unknown'
+CMP-002933,missing value written as text: customer_segment = 'unknown'
+CMP-000207,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-000610,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-001075,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-001193,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-001400,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-001436,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-001750,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-002805,multivariate outlier: detectable only with the Mahalanobis distance
+CMP-000163,univariate outlier: disputed_amount x100 (cents keyed as euros)
+CMP-000505,univariate outlier: disputed_amount x100 (cents keyed as euros)
+CMP-000573,univariate outlier: disputed_amount x100 (cents keyed as euros)
+CMP-001228,univariate outlier: disputed_amount x100 (cents keyed as euros)
+CMP-001755,univariate outlier: disputed_amount x100 (cents keyed as euros)
+CMP-001223,univariate outlier: extreme days_since_event
+CMP-000891,univariate outlier: extreme text_length_words (document pasted in)
+CMP-002408,univariate outlier: extreme text_length_words (document pasted in)
+CMP-001855,univariate outlier: impossible customer_age
+CMP-002877,univariate outlier: impossible customer_age
+CMP-002901,univariate outlier: impossible customer_age
